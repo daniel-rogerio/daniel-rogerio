@@ -1,5 +1,8 @@
 ## Hi there 👋
+🔭 I’m currently working on Grupo Nexxees
+🌱 I’m currently learning backend developer
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6718161c791f57dd60a42f3c?variant=dark)](https://roadmap.sh)
 <!--
 **daniel-rogerio/daniel-rogerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

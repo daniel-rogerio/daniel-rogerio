@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on Grupo Nexxees
-🌱 I’m currently learning backend developer
+🌱 I’m currently learning frontend developer
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6718161c791f57dd60a42f3c?variant=dark)](https://roadmap.sh)
 <!--
